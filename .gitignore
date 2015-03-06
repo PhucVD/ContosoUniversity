@@ -1,3 +1,9 @@
+# Bin folder
+
+/packages
+ContosoUniversity/bin
+ContosoUniversity/obj
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
