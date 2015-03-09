@@ -1,6 +1,8 @@
 # Bin folder
 
 /packages
+data/bin
+data/obj
 ContosoUniversity/bin
 ContosoUniversity/obj
 
